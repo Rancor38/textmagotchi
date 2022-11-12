@@ -33,7 +33,7 @@ const tamagotchi = {
         // hungry timer
         const hungryInterval = setInterval(() => { this.hungry += 2 }, 5000)
         //sleepy timer
-        const sleepyInterval = setInterval(() => { this.sleepy += 15 }, 10000)
+        const sleepyInterval = setInterval(() => { this.sleepy += 14 }, 10000)
         // condition timer
         const condtitionInterval = setInterval(() => {
                 boredScore.innerText = this.bored,
