@@ -1,3 +1,10 @@
+@keyframes spinny {
+    0% {transform: rotate(0deg);}
+    20% {transform: rotate(-30deg);}
+    60% {transform: rotate(30deg);}
+    100% {transform: rotate(0deg);}
+}
+
 body {
     background-color: black;
     color: aliceblue;
@@ -20,6 +27,10 @@ img {
 
 img:hover{
     transform: scale(1.05);
+    animation-name: spinny;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+
 }
 
 .parent {
