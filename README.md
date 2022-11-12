@@ -37,7 +37,7 @@ Here's the game:
 
 [![Texmagotchi Screen Shot][game-image-2]](https://github.com/Rancor38/textmagotchi)
 
-Of course, this is a simple game that was made in a day so it doesn't have many features but I thought that it was fun, and suited my purposes for the class. Thanks to all the people have layed to test it out, and to those who suggested features for the future!
+Of course, this is a simple game that was made in a day so it doesn't have many features but I thought that it was fun, and suited my purposes for the class. Thanks to all the people have played to test it out, and to those who suggested features for the future!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
