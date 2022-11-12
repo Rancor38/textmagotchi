@@ -9,7 +9,7 @@ h2 {
 
 .parent {
     display: grid;
-    height: 90vh;
+    height: 95vh;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: .5fr .5fr 2fr 1fr;
     grid-column-gap: 0px;
