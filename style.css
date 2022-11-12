@@ -8,11 +8,14 @@ h2 {
 }
 
 img {
+    z-index: 2;
     width: 64px;
     height: 64px;
     filter: invert();
     position: absolute;
     right: 0;
+    margin-top: 3px;
+    margin-right: 10px;
 }
 
 .parent {
