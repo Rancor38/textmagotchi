@@ -18,6 +18,10 @@ img {
     margin-right: 10px;
 }
 
+img:hover{
+    transform: scale(1.05);
+}
+
 .parent {
     display: grid;
     height: 95vh;
