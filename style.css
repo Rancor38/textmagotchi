@@ -8,6 +8,7 @@
 body {
     background-color: black;
     color: aliceblue;
+    touch-action: manipulation;
 }
 
 h2 {
@@ -52,7 +53,6 @@ button {
     display: block;
     font-size: 16px;
     margin: 5px;
-    touch-action: manipulation;
 }
 button:hover {
     transform: scale(1.1);
